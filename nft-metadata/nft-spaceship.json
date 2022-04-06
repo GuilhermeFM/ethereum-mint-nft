@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Ship size",
+      "value": "Capital"
+    },
+    {
+      "trait_type": "Ship class",
+      "value": "Battle Cruiser"
+    }
+  ],
+  "description": "Full fledge battle cruiser.",
+  "image": "ipfs://Qme3FPsD22GkYQduJjB6s4MZzMsoZcfJDrEdJenqUpbzuQ",
+  "name": "X - Battle Cruiser"
+}
